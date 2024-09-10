@@ -29,3 +29,5 @@ Apresentar os dados
 '+' - operador de concatenação (Juntar).
 '[]' - Criar uma Array(Lista).
 'const start = () => {}' - Utilizado para criar uma função.
+'switch() {}' - Como se fosse um menu.
+'while() {}' - Fazer um looping.
