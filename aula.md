@@ -27,3 +27,4 @@ let - pode mudar (let mensagem = "Olá, mundo";).
 const - não pode ser alredo dps (const mensagem = "Olá, mundo";).
 {} - Como se fosse um mundo diferente.
 + - operador de concatenação (Juntar).
+[] - Criar uma Array(Lista).
