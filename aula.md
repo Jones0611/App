@@ -31,3 +31,7 @@ Apresentar os dados
 'const start = () => {}' - Utilizado para criar uma função.
 'switch() {}' - Como se fosse um menu.
 'while() {}' - Fazer um looping.
+
+## Modules
+'const { select } = require('@inquirer/prompts')' - Importação de modulos.
+npm install inquirer - como instalar.
