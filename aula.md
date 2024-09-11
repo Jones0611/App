@@ -35,3 +35,8 @@ Apresentar os dados
 ## Modules
 'const { select } = require('@inquirer/prompts')' - Importação de modulos.
 npm install inquirer - como instalar.
+
+## Jason
+Javascript Pbject Notation (.JSON)
+'JSON.parse()' - Transforma de JSON para JS
+'JSON.stringify' - Transforma de JS para JSON
